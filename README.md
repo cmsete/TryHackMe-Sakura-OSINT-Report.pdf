@@ -1,31 +1,28 @@
-Relatório de investigação OSINT desenvolvido durante a resolução da sala Sakura, da plataforma TryHackMe.
 
-Objetivo
+# TryHackMe – Sakura Room 🔎
+
+Relatório de investigação OSINT desenvolvido durante a resolução da sala **Sakura**, da plataforma TryHackMe.
+
+## Objetivo
 
 Praticar técnicas de Open Source Intelligence (OSINT), utilizando fontes abertas para identificar e correlacionar informações digitais.
 
-Técnicas e ferramentas
+## Técnicas e ferramentas
 
-Análise de metadados
+- Análise de metadados
+- Google Dorks
+- Investigação de perfis digitais
+- Análise de repositórios GitHub e chaves PGP
+- Investigação de blockchain
+- Geolocalização por imagens
+- Análise de redes Wi-Fi
 
-Google Dorks
+## Relatório
 
-Investigação de perfis digitais
+📄 Consulte o relatório completo em PDF disponível neste repositório.
 
-Análise de repositórios GitHub e chaves PGP
-
-Investigação de blockchain
-
-Geolocalização por imagens
-
-Análise de redes Wi-Fi
-
-Relatório
-
- Consulte o relatório completo em PDF disponível neste repositório.
-
-Observação
+## Observação
 
 Projeto desenvolvido para fins educacionais, em ambiente de laboratório controlado do TryHackMe.
 
-Status: Concluído.
+**Status:** Concluído.
